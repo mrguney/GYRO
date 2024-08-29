@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 381d08cfa3b8c4b7da821b9b87c6b4e8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - modelSquatsAsset: {fileID: 5022602860645237092, guid: 592a5eed67d9c46278015f545c12a7ec, type: 3}
+  - modelJumpingJacksAsset: {fileID: 5022602860645237092, guid: 4bc135dde4c894a97854b180a0f52a17, type: 3}
+  - modelBicycleCrunchAsset: {fileID: 5022602860645237092, guid: 743ff2249da1549148759b20ab4c9add, type: 3}
+  - modelPushUpsAsset: {fileID: 5022602860645237092, guid: 7eda78b5647eb4f12a850681d3117cf8, type: 3}
+  - ageSlider: {instanceID: 0}
+  - ageValueText: {instanceID: 0}
+  - maleToggle: {instanceID: 0}
+  - femaleToggle: {instanceID: 0}
+  - weightSlider: {instanceID: 0}
+  - weightValueText: {instanceID: 0}
+  - heightSlider: {instanceID: 0}
+  - heightValueText: {instanceID: 0}
+  - targetWeightInput: {instanceID: 0}
+  - footStepsInput: {instanceID: 0}
+  - resultText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
